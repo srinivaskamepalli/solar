@@ -1,0 +1,116 @@
+body{
+    background-image: url(./solar\ img.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#neptune{
+    
+    height: 900px;
+    width: 900px;
+    border:1px solid white;
+    border-radius: 50%;
+    padding: 50px;
+
+}
+#nep_pic{
+position: absolute;
+top: 10px;
+left: 900px;
+
+}
+#uranus{
+    height: 800px;
+    width: 800px;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 50px;
+    
+
+}
+#urns_pic{
+    position: absolute;
+    top: 150px;
+    left: 800px;
+}
+#saturn{
+    height: 700px;
+    width: 700px;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 50px;
+}
+#saturn_pic{
+    position:absolute;
+    top: 350px;
+    left: 750px;
+}
+#jupiter{
+    height: 600px;
+    width: 600px;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 50px;
+
+}
+#jupiter_pic{
+    position:absolute;
+    top: 450px;
+    left: 780px;
+}
+#mars{
+    height: 500px;
+    width: 500px;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 50px;
+}
+#mars_pic{
+    position:absolute;
+    top: 550px;
+    left: 830px; 
+}
+#earth{
+    height: 400px;
+    width: 400px;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 50px;
+}
+#earth_pic{
+    position:absolute;
+    top: 650px;
+    left: 950px;  
+}
+#venus{
+    height: 300px;
+    width: 300px;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 50px;
+}
+#venus_pic{
+    position:absolute;
+    top: 680px;
+    left: 1100px;  
+}
+#mercury{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 50px;
+}
+#mercury_pic{
+    position:absolute;
+    top: 600px;
+    left: 1200px;  
+}
+#sun{
+    
+}
+#sun_pic{
+    position:absolute;
+    top: 500px;
+    left: 1130px;  
+}
